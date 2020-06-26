@@ -47,29 +47,35 @@ Registered customer:
 
 ## Real-time communication
 
-## Restaurant functionalities
+## Restaurant waiter functionalities
 
 <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant/1.png" alt=""	width="100%" />
 
-* Restaurant waiter dashboard which shows all the restaurant tables and orders in real-time as customers make them *
+*Restaurant waiter dashboard which shows all the restaurant tables and orders in real-time as customers make them*
 
 <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant/2.png" alt=""	width="100%" />
 
-<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant/3.png" alt=""	width="100%" />
+*Waiters can add restaurant tables and edit or delete the existing ones*
 
 <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant/4.png" alt=""	width="100%" />
 
+*Each table has its unique QR code which when scanned opens the application for making a new order specifically for that table*
+
 <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant/5.png" alt=""	width="100%" />
 
-<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant/6.png" alt=""	width="100%" />
+*Viewing added menu categories with the option to add a new one or edit/delete an existing one*
 
 <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant/7.png" alt=""	width="100%" />
 
-<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant/8.png" alt=""	width="100%" />
+*Viewing added menu items with the option to add a new one or edit/delete an existing one*
 
 <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant/9.png" alt=""	width="100%" />
 
-<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant/10.png" alt=""	width="100%" />
+*Viewing past orders with the option to view details of each order*
+
+<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant/10.png" alt="" width="100%" />
+
+*Viewing order details (items ordered)*
 
 
 
