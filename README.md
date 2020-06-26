@@ -46,6 +46,11 @@ Registered customer:
 - can view all previous orders
 
 ## Real-time communication
+Real-time communication between the restaurant waiter and customers is accomplished using WebSocket protocol. Below is shown a sequence diagram (UML) showing message exchange between the two actors and the WebSocket server.
+
+<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/sequence_diagram.png?raw=true" alt="" width="783" height="1032"/>
+
+*Sequence diagram (UML) showing message exchange*
 
 ## Restaurant waiter functionalities
 
