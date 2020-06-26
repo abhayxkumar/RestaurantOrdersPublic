@@ -82,6 +82,12 @@ Real-time communication between the restaurant waiter and customers is accomplis
 
 *Viewing order details (items ordered)*
 
+## Registered customer functionalities
 
+<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client/1.png" alt=""	width="100%" />
+
+*Viewing previous orders with the option to see details for the chosen order*
+
+## Creating a new order
 
 
