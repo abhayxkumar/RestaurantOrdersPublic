@@ -90,4 +90,33 @@ Real-time communication between the restaurant waiter and customers is accomplis
 
 ## Creating a new order
 
+| <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/1.png" alt="" />  | <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/2.png" alt="" />  | <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/3.png" alt="" />  |
+| ------------- | ------------- | ------------- |
+
+
+| <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/4.png" alt="" />  | <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/5.png" alt="" />  |
+| ------------- | ------------- |
+
+
+<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant_ordering/2.png" alt=""	width="100%" />
+
+<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant_ordering/3.png" alt=""	width="100%" />
+
+<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant_ordering/4.png" alt=""	width="100%" />
+
+| <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/6.png" alt="" />  | <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/7.png" alt="" />  | <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/8.png" alt="" />  |
+| ------------- | ------------- | ------------- |
+
+<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant_ordering/6.png" alt=""	width="100%" />
+
+
+| <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/9.png" alt="" />  | <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/10.png" alt="" />  | <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/11.png" alt="" />  |
+| ------------- | ------------- | ------------- |
+
+<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant_ordering/8.png" alt=""	width="100%" />
+<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant_ordering/9.png" alt=""	width="100%" />
+<img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/restaurant_ordering/10.png" alt=""	width="100%" />
+
+| <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/12.png" alt="" />  | <img src="https://github.com/fifi98/RestaurantOrdersPublic/blob/master/screenshots/client_ordering/13.png" alt="" />  |
+| ------------- | ------------- |
 
